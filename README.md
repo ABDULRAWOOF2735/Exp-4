@@ -1,6 +1,6 @@
 # Exp - 4 HOSPITAL MANAGEMENT SYSTEM
-Developed by:ABDUL RAWOOF
-Reg no:212224230003
+# Developed by: ABDUL RAWOOF
+# Reg no:212224230003
 # AIM:
 To develop the Hospital management System using Star UML tool.
 # SRS (Procedure): 
